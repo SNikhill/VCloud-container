@@ -3,6 +3,8 @@
 
 **Guided by:** Aakash Tangri
 
+[![VCloudThumbnail](https://user-images.githubusercontent.com/51415616/114160358-741fd080-9944-11eb-9f13-9cd296dd8f8a.jpg)](https://youtu.be/2MugZcvFh4Y)
+
 ## Problem
 Smart boards in our school were inter-connected using a Local Network and used "old school" folder sharing to share content.
 There was no option to search the content, sort the videos or an easy way to save to watch it later on.
