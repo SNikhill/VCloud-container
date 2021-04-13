@@ -10,7 +10,9 @@ Smart boards in our school were inter-connected using a Local Network and used "
 There was no option to search the content, sort the videos or an easy way to save to watch it later on.
 
 ## Solution
-[VCloud](https://www.youtube.com/watch?v=2MugZcvFh4Y). It is an elegant, _in house_ made Web Interface meant to run on a local network that provides an easy and customised approach to all the uploaded videos with a very easy Search. [Features](#features).
+[VCloud](https://www.youtube.com/watch?v=2MugZcvFh4Y).
+
+It is an elegant Web Application meant to run on a local network that provides an easy and customised approach to all the uploaded videos with a very intuitive Search among other [features](#features).
 
 ## Features
 - Ability to deliver: Videos, Documents, Images
@@ -26,7 +28,7 @@ There was no option to search the content, sort the videos or an easy way to sav
 - **Individual Accounts** for Teachers
     - Subject Wise Grouping
 
-## Stack Used
+## Technologies Used
 This was a FullStack (LAMP BASED) project. 
 - Front End 
   - HTML, CSS, JavaScript [Vanilla + jQuery]
